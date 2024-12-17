@@ -27,18 +27,19 @@ Welcome aboard the Titanic data exploration project! 🌊 Using the famous **Tit
 - 📌 **Passenger Trends**: Analyze embarkation trends and passenger demographics.  
 
 [Dashboard Preview](https://app.powerbi.com/links/AhpPYF4BQO?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)  
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/1b7ed3b5-757c-49b3-aceb-6f7363cf895d" />
 
 
 
 ---
 
 ## 🚀 How to Explore  
-1. **[View the Power BI Dashboard](#)** 🌟  
+1. **[View the Power BI Dashboard](#)** 🌟
+[Dashboard Preview](https://app.powerbi.com/links/AhpPYF4BQO?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)  
 2. Browse the repository for the Excel files and step-by-step process documents. 📂  
 
 ---
 
 ## 🎉 Let’s Dive In!  
 This project showcases the power of **data cleaning** 🧹 in Excel and **visualization** 🎨 in Power BI. Dive into the dashboard and uncover the hidden stories of the Titanic passengers!  
-
-![Sample Visualization](https://via.placeholder.com/800x400?text=Insert+Visualization+Image+Here)  
+ 
